@@ -1,10 +1,10 @@
-
+![App Preview](https://imgur.com/a/qemH9gX)
 
 # 📝 ToDo App
 
 A simple and responsive To-Do List application built using **Ionic Framework** and **Angular**. Easily add, view, and delete your tasks in a clean interface.
 
-![App Preview](https://imgur.com/a/qemH9gX)
+
 
 ---
 
