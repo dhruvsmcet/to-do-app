@@ -1,4 +1,4 @@
-![App Preview](https://imgur.com/a/qemH9gX)
+![App Preview](https://i.imgur.com/adOKvqu.png)
 
 # 📝 ToDo App
 
